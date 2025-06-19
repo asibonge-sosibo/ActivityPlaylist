@@ -1,5 +1,6 @@
 package vcmsa.projects.activityplaylist
 
+
 import android.annotation.SuppressLint
 import android.content.Intent
 import android.os.Bundle
@@ -55,6 +56,7 @@ class MainActivity : AppCompatActivity() {
             finish()
         }
     }
+
 
     @SuppressLint("MissingInflatedId")
     fun showAddDialog() {
