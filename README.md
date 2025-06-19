@@ -96,8 +96,6 @@ View your score and personalized feedback on the Score Screen.
 Review the flashcards with the correct answers or exit the app.
 
 
-[Uploading Student Name Asibonge Sosibo (1).pdf…]()
-
 ![Screenshot 2025-06-19 114237](https://github.com/user-attachments/assets/48cfbde5-b87a-471a-90fe-649e18672a7e)
 ![Screenshot 2025-06-19 115054](https://github.com/user-attachments/assets/06538a01-2660-4219-98a1-6354d3039fac)
 
