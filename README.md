@@ -108,7 +108,7 @@ Review the flashcards with the correct answers or exit the app.
 ![Screenshot 2025-06-19 115559](https://github.com/user-attachments/assets/219879ba-8fdb-4814-9106-961477e43c8d)
 ![Screenshot 2025-06-19 115634](https://github.com/user-attachments/assets/e20c63e5-eb26-4859-8396-63ea6502a9bd)
 
-
+https://github.com/asibonge-sosibo/ActivityPlaylist/blob/master/README.md
 
 
 
