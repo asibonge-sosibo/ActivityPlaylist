@@ -27,7 +27,7 @@ class SecondActivity : AppCompatActivity() {
 
         fun displayAll() {
             val output = StringBuilder()
-            // Table headers with fixed-width columns
+
             output.append(String.format("%-5s%-15s%-15s%-10s%-20s\n", "No", "Item", "Category", "Qty", "Comment"))
             output.append("----------------------------------------------------------------------\n")
 

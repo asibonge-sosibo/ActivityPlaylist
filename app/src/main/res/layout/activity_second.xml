@@ -35,7 +35,7 @@
             android:layout_width="245dp"
             android:layout_height="34dp"
             android:layout_marginTop="50dp"
-            android:text="ITems Playlist"
+            android:text="Detail Playlist"
             android:textAlignment="center"
             android:textColor="@color/white"
             android:textSize="24sp"

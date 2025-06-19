@@ -43,7 +43,7 @@ class ActivityAddItems : AppCompatActivity() {
                 resultIntent.putExtra("quantity", qty)
                 resultIntent.putExtra("comment", com)
                 setResult(Activity.RESULT_OK, resultIntent)
-                finish()  // return to MainActivity
+                finish()
             }
         }
 
